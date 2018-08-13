@@ -1,0 +1,11 @@
+{
+    "name": "Mongo Node POC notes",
+    "version": "0.1.0",
+    "description": "Mongo Db notes",
+    "main": "app.js",
+    "dependencies": {
+        "mongodb": "~2.1.3"
+    },
+    "author": "Deepak Kumar",
+    "license": ""
+}
